@@ -16,7 +16,9 @@ This project analyzes Zomato restaurant data using Python to identify customer b
 - Exploratory Data Analysis
 - Data Visualization
 - Correlation Analysis
-
-## Author
-B. Santhosh
-Aspiring Data Analyst
+  
+## Key Insights
+- Analyzed restaurant ratings and customer preferences.
+- Identified trends in online ordering behavior.
+- Explored relationships between different restaurant attributes.
+- Generated visual reports to support data-driven decision making.
